@@ -6,7 +6,7 @@ This is a simple repository saving all deliverables done during this certificati
 
 ### Week 4 lab: create and share your own Jupyter notebook
 
-You can check this notebook clicking [here](www.google.com)
+You can check this notebook clicking [here](https://github.com/EsteveNoguera/IBM_data_science/blob/main/lab_week4.ipynb)
 
 ### Final deliverable
 
