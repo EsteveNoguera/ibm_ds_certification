@@ -12,6 +12,6 @@ You can check this notebook clicking [here](https://github.com/EsteveNoguera/IBM
 
 Quite similar to the previous lab, just with more exercises. For reviewing you can click [here](https://github.com/EsteveNoguera/IBM_Data_Science_certification/blob/main/tools_for_data_science/final_assignment.ipynb)
 
-## Methods in Data Science
+## Python project for Data Science
 
-Currently working on this course. 
+This course intends to force the student to show basic Python skills in Data Science learned in a previous course named "Python for Data Science, AI and Development". You can check this project [here](www.somewebsite.com) (soon).
