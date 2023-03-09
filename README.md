@@ -1,6 +1,6 @@
 # IBM Data Science certification in Coursera
 
-This is a simple repository saving all deliverables I found interesting in doing during this certification
+This is a simple repository saving all deliverables I found interesting in doing during this certification to allow peer review. 
 
 ## Tools for Data Science
 
