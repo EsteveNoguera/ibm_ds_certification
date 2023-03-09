@@ -14,4 +14,4 @@ Quite similar to the previous lab, just with more exercises. For reviewing you c
 
 ## Python project for Data Science
 
-This course intends to force the student to show basic Python skills in Data Science learned in a previous course named "Python for Data Science, AI and Development". You can check this project [here](www.somewebsite.com) (soon).
+This course intends to force the student to show basic Python skills in Data Science learned in a previous course named "Python for Data Science, AI and Development". You can check this project [here](https://github.com/EsteveNoguera/IBM_Data_Science_certification/blob/main/python_project_data_science/Final%20Assignment.ipynb).
